@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: arithmetic overflow. The program attempts to increment a numeric field beyond its maximum allowed value, leading to unexpected behavior or a program crash. The solution shows how to prevent this by using appropriate data types and implementing error handling.
